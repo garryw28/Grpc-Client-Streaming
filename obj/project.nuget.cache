@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "+smAHb1+mDzm3yf+f/fY19Ck+0xZCOT7BFASSgXkyDWaf+2rxX0cujfoXg0Tj6JOIj6kXsFB36ueClA9C+bQSQ==",
+  "dgSpecHash": "3auxtmAcHPoC2TKjRa1BoIy8Jusx1wn0M2lAN//VcKo+jZMQh4M9Jxtvo3fXeeB/v4OWUzeNRX2H4wmxyl5ZjA==",
   "success": true,
   "projectFilePath": "E:\\Source Code\\Grpc-Client-Streaming\\GrpcClientStreaming\\GrpcClientStreaming.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gwo00004886\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\gwo00004886\\.nuget\\packages\\grpc.core.api\\2.33.1\\grpc.core.api.2.33.1.nupkg.sha512",
+    "C:\\Users\\gwo00004886\\.nuget\\packages\\grpc.net.client\\2.33.1\\grpc.net.client.2.33.1.nupkg.sha512",
+    "C:\\Users\\gwo00004886\\.nuget\\packages\\grpc.net.common\\2.33.1\\grpc.net.common.2.33.1.nupkg.sha512",
+    "C:\\Users\\gwo00004886\\.nuget\\packages\\grpc.tools\\2.33.1\\grpc.tools.2.33.1.nupkg.sha512",
+    "C:\\Users\\gwo00004886\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\gwo00004886\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\gwo00004886\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\gwo00004886\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
   "logs": []
 }
